@@ -1,0 +1,9 @@
+Index,Parameter Value,Circuit Element
+0,1.33e+02,R0
+1,1.56e+03,R1
+2,1.41e-08,Wo1_0
+3,1.10e+03,Wo1_1
+4,2.43e-06,CPE1_0
+5,6.05e-01,CPE1_1
+6,2.76e+03,Wo2_0
+7,1.22e-02,Wo2_1

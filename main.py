@@ -10,10 +10,10 @@ def write_file(filename, tupl):
     f.close()
 
 
-root = pl.Path("D:/Linh Python/CoSoDien/.venv")
+root = pl.Path("C:/Users/LENOVO/PycharmProjects/PythonProject/cosodien")
 option = input("Enter the directory: ")
 inp = input("File's name: ")
-directory = f"./data/{option}"
+directory = root / f"{option}"
 fields = ['sample', "Vin", "Vout", "R1", "phase", "freq", "type", "length", "Z", "Re(Z)", "Im(Z)", "state"]
 
 
